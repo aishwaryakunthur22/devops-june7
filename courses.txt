@@ -1,4 +1,3 @@
-Python Scripting
 Java
 ReactJS
 AWS course
